@@ -35,9 +35,14 @@ function fToC(fahrenheit)
     }
 } 
 
+function cTok(kelvin){
+let kTemp = kelvin;
+let cToKel = kTemp; (273.15 - 25.7)
+}
 
 getInput(5);
 getInput(30);
+
 
 
 function getInput(i){
