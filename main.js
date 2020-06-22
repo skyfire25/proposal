@@ -35,11 +35,12 @@ function fToC(fahrenheit)
     }
 } 
 
-function cTok(kelvin){
-let kTemp = kelvin;
-let cToK = kTemp(273.15 - 25.7)
-let message= kTemp+'\xB0C is ' + cTok + '\xB0 k'
-}
+//function cTok(kelvin){
+//let kTemp = kelvin;
+//let cToK = kTemp(273.15 - 25.7)
+//let message= kTemp+'\xB0C is ' + cTok + '\xB0 k';
+
+//}
 
 getInput(5);
 getInput(30);
