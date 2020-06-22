@@ -37,7 +37,8 @@ function fToC(fahrenheit)
 
 function cTok(kelvin){
 let kTemp = kelvin;
-let cToKel = kTemp; (273.15 - 25.7)
+let cToK = kTemp(273.15 - 25.7)
+let message= kTemp+'\xB0C is ' + cTok + '\xB0 k'
 }
 
 getInput(5);
